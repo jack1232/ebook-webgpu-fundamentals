@@ -1,6 +1,6 @@
-# 3D Graphics with WebGPU: A Practical Guide
+# WebGPU Fundamentals - A Beginner’s Guide to Web Graphics Programming
 
-This is a source code for example projects contained in the eBook ["3D Graphics with WebGPU: A Practical Guide"](https://www.amazon.com/exec/obidos/ASIN/B0CFZP71F2/unicadinccom-20). 
+This is a source code for example projects contained in the eBook ["WebGPU Fundamentals"](https://www.amazon.com/exec/obidos/ASIN/B0CFZP71F2/unicadinccom-20). 
 
 <p align="center">
 <a href="https://drxudotnet.com"><img src="src/assets/cover.jpg" width="200" height="320"></a>
