@@ -1,4 +1,5 @@
-# WebGPU Fundamentals - A Beginner’s Guide to Web Graphics Programming
+# WebGPU Fundamentals 
+## A Beginner’s Guide to Web Graphics Programming
 
 This is a source code of example projects contained in the eBook ["WebGPU Fundamentals"](https://www.amazon.com/exec/obidos/ASIN/B0CG6KTWTW/unicadinccom-20). 
 
